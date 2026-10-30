@@ -1,9 +1,0 @@
-{
-  "$schema": "https://openapi.vercel.sh/vercel.json",
-  "rewrites": [
-    {
-      "source": "/embed/movie/:id",
-      "destination": "https://nxsha.space/embed/movie/:id"
-    }
-  ]
-}
